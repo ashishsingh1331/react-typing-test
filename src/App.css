@@ -2,6 +2,20 @@
   text-align: center;
 }
 
+.correct {
+  color: green;
+  font-weight: bold;
+}
+.incorrect {
+  color: red;
+  font-weight: bold;
+}
+.active {
+  font-weight: bold;
+}
+
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
